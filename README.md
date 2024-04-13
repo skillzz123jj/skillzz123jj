@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I also happen to be an avid gamer
 - ⭐ Future goals: Work in the industry as programmer and keep learning new things and continue creating
 
+<!--
+
