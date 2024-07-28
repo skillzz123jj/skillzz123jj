@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Mila
 
-- 🔭 I’m currently working on games for Papunet which is apart of Kehitysvammaliitto (they provide services for disabled people)
+- 🔭 I’m currently working on games for Papunet which is apart of The Finnish Association on Intellectual and Developmental Disabilities.
 - 👩‍💻 Studying at Taitotalo as a video game programmer
 - 🌱 I’m currently learning different programming languages (C#, Python, C++) and video game engines (Unreal Engine, Unity)
 - 🤔 I would like to learn more about machine learning, some full stack development and provide to open source
