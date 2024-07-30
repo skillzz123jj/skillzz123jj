@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning different programming languages (C#, Python, C++) and video game engines (Unreal Engine, Unity)
 - 🤔 I would like to learn more about machine learning, some full stack development and provide to open source
 - 📚 Some experience with SQL, JavaScript, Blender, HTML and CSS
-- 😄 Pronouns: She/They
 - ⚡ Fun fact: I also happen to be an avid gamer
 - ⭐ Future goals: Work in the industry as programmer and keep learning new things and continue creating
 <!--
